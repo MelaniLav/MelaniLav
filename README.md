@@ -13,9 +13,9 @@
   
 - :rocket: Passionate about software development, especially in backend with **Node.js** and **Spring Boot** and frontend with **Angular**.
 
-- ☁️: Interested in **cloud** computing and deployment.
+- ☁️ Interested in **cloud** computing and deployment.
   
-- 🤖: Constantly learning about artificial intelligence and **scalable software development**.
+- 🤖 Constantly learning about artificial intelligence and **scalable software development**.
   
 - :nerd_face: Always `learning new things`.
 
